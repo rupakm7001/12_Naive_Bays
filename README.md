@@ -1,0 +1,2 @@
+# 12_Naive_Bays
+12_Naive_Bays_Assignment
